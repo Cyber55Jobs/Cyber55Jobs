@@ -1,16 +1,43 @@
-### Hi there 👋
+┌<!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 
-<!--
-**Cyber55Jobs/Cyber55Jobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+┌──(Jairo@root)-[~/]
+└─$ cat Jairo.py
+
+class Jairo:
+
+def  __social__(self):
+ self.gtb = "https://github.com/Cyber55Jobs"
+ self.twr = "https://twitter.com/JairoJereCastro" 
+ self.tlg = "https://t.me/JJcFullStack"
+  
+ ┌──(Jairo@root)-[~/]
+ └─$
+```
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
+
+
