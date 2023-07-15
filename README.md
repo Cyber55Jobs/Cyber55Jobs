@@ -9,7 +9,7 @@
 class Jairo:
 
 def  __social__(self):
- self.gtb = "https://github.com/Cyber55Jobs"
+ self.gtb = "https://github.com/FullStacks-software"
  self.twr = "https://twitter.com/JairoJereCastro" 
  self.tlg = "https://t.me/JJcFullStack"
   
